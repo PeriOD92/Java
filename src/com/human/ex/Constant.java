@@ -2,6 +2,9 @@ package com.human.ex;
 
 public class Constant {
 
+	/**
+	 * @param args
+	 */
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 		System.out.println("안녕");
@@ -50,6 +53,15 @@ public class Constant {
 		int c=5;
 		int d=10;
 		System.out.println((c+3)+d);
+		for (int a=0;a<21;a++) {
+			if (a%2==0){
+				System.out.println(a);
+			}
+		}
+		int x=3;
+		x=4;
+		x=6;
+		System.out.println(x);
 	
 
 	}
