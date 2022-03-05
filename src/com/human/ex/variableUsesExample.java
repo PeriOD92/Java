@@ -29,6 +29,7 @@ public class variableUsesExample {
 		System.out.println("ver3="+ ver3); 
 
 		
+		
 	}
 	
 
