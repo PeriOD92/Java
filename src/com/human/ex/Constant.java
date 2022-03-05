@@ -62,6 +62,8 @@ public class Constant {
 		x=4;
 		x=6;
 		System.out.println(x);
+		x=x++;
+		System.out.println(x+10);
 	
 
 	}
